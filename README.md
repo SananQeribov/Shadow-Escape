@@ -1,7 +1,6 @@
-echo "# Shadow-Escape" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SananQeribov/Shadow-Escape.git
-git push -u origin main﻿# Shadow-Escape
+ Game Features
+ 1.Built with Jetpack Compose for smooth UI
+ 2.Custom graphics using Canvas API 
+ 3.Dynamic animations and physics-based movement 
+ 4.Tap controls for instant movement
+ 5.AI-driven enemies that track the player 
